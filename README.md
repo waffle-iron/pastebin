@@ -1,3 +1,3 @@
 # Pastebin
 
-> A pastebin application build with Rocket.
+> A pastebin application built with Rocket.

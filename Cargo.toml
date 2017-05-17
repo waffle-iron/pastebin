@@ -1,0 +1,9 @@
+[package]
+name = "pastebin"
+version = "0.1.0"
+authors = ["Ian Johnson <yetea@protonmail.com>"]
+
+[dependencies]
+rocket = "0.2.6"
+rocket_codegen = "0.2.6"
+rand = "0.3"

@@ -1,0 +1,4 @@
+target/
+upload/
+**/*.rs.bk
+.DS_Store
